@@ -19,6 +19,7 @@ Link to privacy policy of third party service providers used by the app
 *   [Firebase Analytics](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
+*   [Microsoft Bing Maps](https://www.microsoft.com/en-us/maps/product/terms-april-2011)
 
 **Log Data**
 
