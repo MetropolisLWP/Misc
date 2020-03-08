@@ -4,6 +4,8 @@
 - Tablet UI improvement
 - When dragging sliders, the background would now be transparent for better editing
 
+---
+
 # 0.7.0.0 (2166) REL
 
 - Preliminary support for non-standard launchers like One UI, TouchWiz, and EMUI
