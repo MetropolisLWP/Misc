@@ -1,3 +1,10 @@
+# 0.8.0.1 (2664) REL
+
+- Final fix for ANR issues on OnePlus and Meizu devices
+- Raise the frame rate lock (as part of the bugfix for OnePlus high-refresh-rate screens)
+
+---
+
 # 0.7.0.1 (2280) REL
 
 - Minor bug fixes for Huawei devices
