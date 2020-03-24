@@ -1,3 +1,10 @@
+# 0.9.5.1 (2811) REL
+
+- Added animation speed slider
+- Battery optimization
+
+---
+
 # 0.8.0.1 (2664) REL
 
 - Final fix for ANR issues on OnePlus and Meizu devices
