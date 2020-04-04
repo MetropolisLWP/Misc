@@ -1,3 +1,16 @@
+# 1.0.0.2 (2929) REL
+
+- Stability fix.
+- Currently, Metropolis may not work properly on Android 11 (R) DP 2.1. This is a known issue of the OS itself. Others are unaffected.
+
+---
+
+# 1.0.0.0 (2888) REL
+
+- 1.0 Release
+
+---
+
 # 0.9.5.1 (2811) REL
 
 - Added animation speed slider
